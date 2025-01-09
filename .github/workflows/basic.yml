@@ -35,6 +35,9 @@ jobs:
       - name: Echo Application name
         run: |
           echo "Hello, Application Name is ${{ env.APPLICATION_NAME }}"
+
+      - name: List current folder
+        run: ls-la
         
   second_job:
     # The type of runner that the job will run on
