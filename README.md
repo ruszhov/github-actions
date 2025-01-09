@@ -1,2 +1,2 @@
 Status of Last Deployment:<br>
-<img src="https://github.com/ruszhov/github-actions/workflows/CI-First-Test/badge.svg?branch=main"><br>
+<img src="https://github.com/ruszhov/github-actions/actions/workflows/basic.yml/badge.svg?branch=main"><br>
